@@ -19,7 +19,7 @@ on:
             run: npm install
 
           - name: Run tests
-            run: npm
+            run: npm test
 
    
     
